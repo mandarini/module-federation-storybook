@@ -3,9 +3,11 @@
   "version": 2,
   "projects": {
     "aa": "libs/aa",
+    "aa-e2e": "apps/aa-e2e",
     "about": "apps/about",
     "about-e2e": "apps/about-e2e",
     "bb": "libs/bb",
+    "bb-e2e": "apps/bb-e2e",
     "cart": "apps/cart",
     "cart-e2e": "apps/cart-e2e",
     "cc": "libs/cc",
