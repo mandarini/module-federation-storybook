@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@mfstory/aa": ["libs/aa/src/index.ts"],
+      "@mfstory/bb": ["libs/bb/src/index.ts"],
+      "@mfstory/cc": ["libs/cc/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

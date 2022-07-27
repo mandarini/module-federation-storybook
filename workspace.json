@@ -2,6 +2,17 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "aa": "libs/aa",
+    "about": "apps/about",
+    "about-e2e": "apps/about-e2e",
+    "bb": "libs/bb",
+    "cart": "apps/cart",
+    "cart-e2e": "apps/cart-e2e",
+    "cc": "libs/cc",
+    "host": "apps/host",
+    "host-e2e": "apps/host-e2e",
+    "shop": "apps/shop",
+    "shop-e2e": "apps/shop-e2e",
     "web": "apps/web",
     "web-e2e": "apps/web-e2e"
   }
